@@ -1,0 +1,4 @@
+[package]
+description = This script gets the gateway IP information taken from the dhcp logs, and adds a notice.log entry if the gateway address is identified
+tags = zeek plugin, Gateway IP, features extraction, notice
+version=master
