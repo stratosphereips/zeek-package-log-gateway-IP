@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gomaa"
+  given-names: "Alya"
+  email: "alyaggomaa@gmail.com"
+  affiliation: >-
+      Stratosphere Laboratory, AIC, FEL, Czech
+      Technical University in Prague
+title: "zeek-package-log-gateway-IP"
+version: 1.0.0
+date-released: 2023-02-24
+url: "https://github.com/stratosphereips/zeek-package-log-gateway-IP"
